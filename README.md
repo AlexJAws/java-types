@@ -1,3 +1,5 @@
+```
+
 ArrayList add: 82ms
 ArrayList get: 309ms
 ArrayList contains: 3635s
@@ -43,3 +45,6 @@ TreeMap containsValue: 36s
 TreeMap forEach: 31ms
 TreeMap remove: 527ms
 -----------------------
+
+
+```
